@@ -1,0 +1,30 @@
+{
+  "name": "FFToolsKit",
+  "version": "0.1.0",
+  "summary": "A short description of FFToolsKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xiaobt/FFToolsKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "juechufengshenger@126.com": "xiaobing.tang@zhaopin.com.cn"
+  },
+  "source": {
+    "git": "https://github.com/xiaobt/FFToolsKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FFToolsKit/Classes/**/*",
+  "dependencies": {
+    "MBProgressHUD": [
+
+    ],
+    "FMDB": [
+
+    ]
+  }
+}
